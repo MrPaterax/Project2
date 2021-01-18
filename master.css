@@ -239,7 +239,6 @@ div.adrow div:nth-child(2) {
   margin: auto;
   background-color: #101010;
   color: #8c8989;
-  position: relative;
 }
 .footerrow{
   height: 30%;
@@ -264,8 +263,8 @@ div.adrow div:nth-child(2) {
   color: white;
 }
 .footerfooter{
-  position: absolute;
-  bottom: 0;
+  position: relative;
+  bottom:-30%;
   margin-left: 25%;
   width: 50%;
   text-align: center;
